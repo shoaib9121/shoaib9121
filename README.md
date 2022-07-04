@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shoaib Ahmad
 - 👀 Interested in JavaScript and related frameworks i.e. React.
-- 🌱 Currently working as Frontend Engineer. 
+- 🌱 Currently working as Sr. Frontend Engineer having 6+ years of experience. 
 - 💞️ Open to remote opportunities. Willing to relocate to European, Western regions for onsite jobs.
 - 📫 How to reach me? -> ahmad.shoaib9121@gmail.com
 
